@@ -1,4 +1,4 @@
-<h1 align="center">Hey ✌, I'm Aryan Amit Tiwari</h1>
+<h1 align="center">Hey ✌🏻, I'm Aryan Amit Tiwari</h1>
 <h3 align="center">Student | AI/ML + Data stuff | Full-Stack Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AryanAT13&label=Profile%20views&color=0e75b6&style=flat" alt="AryanAT13" /> </p>
@@ -23,8 +23,8 @@
 <a href="https://x.com/TiwariAryan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AryanAT13" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aryanamittiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AryanAT13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/AryanAT13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AryanAT13" height="30" width="40" /></a>
-<a href="http://discordapp.com/users/momstelar_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adipras_1407" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Momstealr_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="adipras_1407" height="30" width="40" /></a>
+<a href="http://discordapp.com/users/momstelar_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AryanAT13" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Momstealr_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="AryanAT13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
