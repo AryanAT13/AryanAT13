@@ -20,13 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/TiwariAryan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaprat7441" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aryanamittiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-pratap-singh-952a8820a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adi_145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adi_145" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adityapratapsjnhh7654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityapratapsjnhh7654" height="30" width="40" /></a>
-<a href="https://discord.gg/adipras_1407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adipras_1407" height="30" width="40" /></a>
-<a href="https://www.playstation.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/PlayStation_logo.svg" alt="PlayStation" height="30" width="40" /></a>
+<a href="https://x.com/TiwariAryan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AryanAT13" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryanamittiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AryanAT13" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/AryanAT13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AryanAT13" height="30" width="40" /></a>
+<a href="http://discordapp.com/users/momstelar_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adipras_1407" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Momstealr_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="adipras_1407" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
