@@ -1,7 +1,7 @@
 <h1 align="center">Hey ✌🏻, I'm Aryan Amit Tiwari</h1>
 <h3 align="center">Student | AI/ML + Data stuff | Full-Stack Dev</h3>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AryanAT13/AryanAT13/main/Final.gif" alt="Aryan" />
+  <img src="https://raw.githubusercontent.com/AryanAT13/AryanAT13/main/Final.gif" alt="Aryan" width="175" />
 </h1>
 
 
@@ -99,13 +99,11 @@
 
 
 
-<h3 align="center">Stats</h3>
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/AryanAT13">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanAT13&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryanAT13&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryanAT13&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryanAT13&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanAT13&theme=dark" height="180em" />
 </div>
 
