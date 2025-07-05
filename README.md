@@ -1,20 +1,8 @@
 <h1 align="center">Hey ✌🏻, I'm Aryan Amit Tiwari</h1>
 <h3 align="center">Student | AI/ML + Data stuff | Full-Stack Dev</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AryanAT13&label=Profile%20views&color=0e75b6&style=flat" alt="AryanAT13" /> </p>
-
-
-- 🌱 I’m currently learning **Advanced Rust**
-
-- 👯 I’m looking to collaborate on **Web3, web2 project and Rust Projects**
-
-- 🤝 I’m looking to help with **open source contributions** and searching for a **Developer** role.
-
-- Most of my projects are private but few are available here too.
-
-- 📫 How to reach me **adipras1407@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DNHaJgzhDIvEUIZRZNKpWZdjzMogOb4k/view?usp=sharing](https://drive.google.com/file/d/1DNHaJgzhDIvEUIZRZNKpWZdjzMogOb4k/view?usp=sharing)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/AryanAT13/AryanAT13/main/Final.gif" alt="Aryan" />
+</h1>
 
 
 <h3 align="left">My Skills:</h3>
