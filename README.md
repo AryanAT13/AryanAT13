@@ -4,10 +4,8 @@
   <img src="https://raw.githubusercontent.com/AryanAT13/AryanAT13/main/Final.gif" alt="Aryan" width="175" />
 </h1>
 
-
 <h3 align="left">My Skills:</h3>
 <p align="left">
-  <!-- Core Web -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -21,7 +19,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 
-  <!-- Frameworks & UI -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
@@ -35,7 +32,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
 
-  <!-- Back-end & Databases -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
@@ -55,7 +51,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="REST APIs" width="40" height="40"/>
   </a>
 
-  <!-- Python & Data Science -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -75,7 +70,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   </a>
 
-  <!-- DevOps & Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -92,11 +86,9 @@
 </p>
 
 
-
 <h1 align="left">Stars</h1>
 <div align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanAT13&show_icons=true&locale=en&theme=dark" alt="Aryan" />
-
 
 
 <h3 align="center">Statistics</h3>
