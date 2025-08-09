@@ -1,5 +1,5 @@
 <h1 align="center">Hey ✌🏻, I'm Aryan. </h1>
-<h3 align="center">Student | AI/ML + Data stuff | Full-Stack Dev</h3>
+<h3 align="center">Student | AI/ML + Data stuff | Dev</h3>
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/AryanAT13/AryanAT13/main/Final.gif" alt="Aryan" width="175" />
 </h1>
