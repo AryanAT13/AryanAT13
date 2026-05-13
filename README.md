@@ -101,7 +101,7 @@
 </div>
 
 
-<h2 align="left">⚡Activity Graph:</h2>
+<h2 align="left">Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AryanAT13&theme=tokyo-night"/>
 
 
